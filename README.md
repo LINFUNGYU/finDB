@@ -1,0 +1,2 @@
+# finDB
+for school hw
